@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: #0a0b11;
+    color: #eee;
+    font-family: Monospace;
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
+img{ padding: 7% 10px 0 10px; max-width: 90%; }
+p{ font-size: 16px; margin: 0; padding: 30px 0 0 0; }
